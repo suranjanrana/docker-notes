@@ -3,16 +3,16 @@
 ## Container:
 
 - A way to package applicaiton with all the necessary dependencies and configuration
-- Portable artifact, easily sare and moved around
+- Portable artifact, easily shared and moved around
 - Made of images. Layers of images stacked.
-- Base of the most of the containers have mostly Linux base image, because small in size (Alpine or other Linux distribution)
+- Base of the most of the containers have Linux base image, because small in size (Alpine or other Linux distribution)
 - Application image on top of base image
 - Containers live in a container repository
 
 ## Docker image:
 
 - Image is the actual package
-- Artifact that can be moed around
+- Artifact that can be moved around
 
 ## Docker container:
 
